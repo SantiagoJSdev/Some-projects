@@ -15,7 +15,6 @@ function App() {
             </div>
             <div className='content__img'>
               <img alt='img' src='https://user-images.githubusercontent.com/87577172/175791946-d66ee908-535d-4e00-b2a2-ede19ce4336a.png' />
-
             </div>
           </div>
         </section>

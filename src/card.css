@@ -44,3 +44,26 @@ margin-bottom: 20px;
     color: #fff;
 
 }
+@media screen and (max-width:500px) {
+    .card__content--interno > h1 {
+        
+        padding-bottom: 0px;
+     margin-bottom: 0px;
+    }
+     
+  }
+@media screen and (max-width:300px) {
+    .card__content {
+        width:  calc(9em + 9vw);
+        height:  calc(9em + 9vw);
+    }
+    .card__content--interno {
+        width:  calc(9em + 9vw);
+        height:  calc(9em + 9vw);
+    }
+    .card__content--interno > img {
+        
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+  }
